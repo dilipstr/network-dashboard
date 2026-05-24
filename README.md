@@ -1,4 +1,4 @@
-<img width="1918" height="1023" alt="image" src="https://github.com/user-attachments/assets/e4ac1551-4a58-4663-9c6d-8603b9808c6d" /><img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/71934025-2992-43d5-b165-7a0d31c354fd" /># Network Dashboard
+# Network Dashboard
 
 An interactive **network topology dashboard** built with **Vue.js** and **Electron**.  
 Design, monitor, and manage your network visually — with real‑time ping checks and automatic email alerts.
